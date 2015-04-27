@@ -116,7 +116,7 @@ img {
 }
 img:hover {
 	opacity: .03;
-	z-index: 100;
+	z-index: 90;
 	transition: .5s;
 	-webkit-transition: .5s;
 	-moz-transition: .5s;
