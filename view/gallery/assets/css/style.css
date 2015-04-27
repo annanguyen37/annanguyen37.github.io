@@ -34,6 +34,7 @@ a:hover {
 	line-height: 40px;
 	text-decoration: none;
 	font-weight: 200;
+	z-index: 100;
 }
 
 #first-text {
